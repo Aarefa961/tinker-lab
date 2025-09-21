@@ -1,0 +1,10 @@
+<!DOCTYPEhtml>
+<html>
+<body>
+<!_Start_>
+<h1>Hello World</h1>
+
+<!_Single line comment_>
+<h2> Single line comment </h2>
+</body>
+</html>
